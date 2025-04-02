@@ -1,8 +1,10 @@
-<h1> Hello, I'm Elinor! 👋 
-
-Software Developer | Data Scientist | AI Enthusiast </h1>
-<h2>🎓 Computer Science Graduate </h2>  
-
+<h1> Hello, I'm Elinor! 
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40px" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+<p>Software Developer | Data Scientist | AI Enthusiast</p>
+</h1>
+<h2>
+🎓 Computer Science Graduate 
+</h2>
 
 
 ### 👀 Interests & Projects  
