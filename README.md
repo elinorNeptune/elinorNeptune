@@ -1,5 +1,5 @@
 <h1> Hello, I'm Elinor! 
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="37px" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 <p>Software Developer | Data Scientist | AI Enthusiast</p>
 </h1>
 <h2>
