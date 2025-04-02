@@ -29,7 +29,7 @@
 
 ### 📫 How to Reach Me
 - ✉️ **Email:** [elinorneptune28@gmail.com](mailto:YourEmail@example.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/elinorNeptune](linkedin.com/in/elinor-neptune-8493b0339)
+- 🔗 **LinkedIn:** [linkedin.com/in/elinorNeptune]([linkedin.com/in/elinor-neptune-8493b0339](https://www.linkedin.com/in/elinor-neptune-8493b0339/))
 - 🏗️ **GitHub:** [@elinorNeptune](https://github.com/elinorNeptune)
   
 
