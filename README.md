@@ -35,7 +35,7 @@
 
 
 
-### ⚡ Fun Fact - I once built a neural network just to decide what to eat for lunch! 🤖🥗
+### ⚡ Fun Fact - I once built a neural network just to decide what to eat for lunch! 🍣🍜🌮🍕😋
 
 <!---
 elinorNeptune/elinorNeptune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
