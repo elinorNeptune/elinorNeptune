@@ -26,11 +26,11 @@
 
 
 ---
-#### Programming Languages: 
+#### 🚀 Programming Languages: 
 - Python, Java, JavaScript, React, jQuery, Node.js, C#, CPP, SQL, HTML, CSS.
 - Familiar with: Assembly, C.
 ---
-#### Operating Systems & Development Environments: 
+#### 💻 Operating Systems & Development Environments: 
 - Windows, Linux; Unity, Anaconda (Jupyter Notebook), IntelliJ IDEA, Arduino IDE, VS, VS Code. 
 ---
 ### 📫 How to Reach Me
