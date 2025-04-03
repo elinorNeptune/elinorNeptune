@@ -26,7 +26,13 @@
 
 
 ---
-
+#### Programming Languages: 
+- Python, Java, JavaScript, React, jQuery, Node.js, C#, CPP, SQL, HTML, CSS.
+- Familiar with: Assembly, C.
+---
+#### Operating Systems & Development Environments: 
+- Windows, Linux; Unity, Anaconda (Jupyter Notebook), IntelliJ IDEA, Arduino IDE, VS, VS Code. 
+---
 ### 📫 How to Reach Me
 - ✉️ **Email:** [elinorneptune28@gmail.com](mailto:YourEmail@example.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/elinorNeptune](https://www.linkedin.com/in/elinor-neptune-8493b0339/))
