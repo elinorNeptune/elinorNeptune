@@ -5,9 +5,10 @@
 <h2>
 🎓 Computer Science Graduate 
 </h2>
-
-
-### ✈️ Interests & Projects  
+<h3>
+  <img src="https://media.tenor.com/igpgV8mpIqYAAAAi/airplane-take-off.gif" height="28" style="vertical-align: middle; display: inline-block; margin-right: 8px;">
+  Interests & Projects
+</h3>
 
 ####  🧠 **AI & Machine Learning**  
 - **Recipe Generator(Python, React)** – AI-powered system using ChatGPT API for recipe creation and RoBERTa for filtering, optimizing suggestions based on user preferences.
