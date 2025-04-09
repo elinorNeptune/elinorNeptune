@@ -7,7 +7,7 @@
 </h2>
 
 
-### 🛫 Interests & Projects  
+### ✈️ Interests & Projects  
 
 ####  🧠 **AI & Machine Learning**  
 - **Recipe Generator(Python, React)** – AI-powered system using ChatGPT API for recipe creation and RoBERTa for filtering, optimizing suggestions based on user preferences.
