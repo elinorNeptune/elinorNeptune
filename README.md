@@ -34,11 +34,17 @@
 #### 💻 Operating Systems & Development Environments: 
 - Windows, Linux; Unity, Anaconda (Jupyter Notebook), IntelliJ IDEA, Arduino IDE, VS, VS Code. 
 ---
-### 📫 How to Reach Me
-- ✉️ **Email:** [elinorneptune28@gmail.com](mailto:YourEmail@example.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/elinorNeptune](https://www.linkedin.com/in/elinor-neptune-8493b0339/))
-- 🏗️ **GitHub:** [@elinorNeptune](https://github.com/elinorNeptune)
   
+<h3>
+  <img src="https://cdn.pixabay.com/animation/2023/10/03/13/08/13-08-01-15_512.gif" height="28" style="vertical-align: middle; display: inline-block; margin-right: 8px;">
+  How to Reach Me
+</h3>
+
+<ul>
+  <li>✉️ <strong>Email:</strong> <a href="mailto:elinorneptune28@gmail.com">elinorneptune28@gmail.com</a></li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elinor-neptune-8493b0339/">linkedin.com/in/elinorNeptune</a></li>
+  <li>🏗️ <strong>GitHub:</strong> <a href="https://github.com/elinorNeptune">@elinorNeptune</a></li>
+</ul>
 
 
 
