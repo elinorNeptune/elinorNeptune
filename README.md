@@ -6,7 +6,7 @@
 🎓 Computer Science Graduate 
 </h2>
 <h3>
-  <img src="https://media.tenor.com/igpgV8mpIqYAAAAi/airplane-take-off.gif" height="28" style="vertical-align: middle; display: inline-block; margin-right: 8px;">
+  <img src="https://media.tenor.com/igpgV8mpIqYAAAAi/airplane-take-off.gif" height="26" style="vertical-align: middle; display: inline-block; margin-right: 10px;">
   Interests & Projects
 </h3>
 
@@ -27,12 +27,23 @@
 
 
 ---
-#### 🚀 Programming Languages: 
+<h3>
+  <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="26" style="vertical-align: middle; display: inline-block; margin-right: 10px;">
+  Programming Languages:
+</h3>
+
 - Python, Java, JavaScript, React, jQuery, Node.js, C#, CPP, SQL, HTML, CSS.
 - Familiar with: Assembly, C.
 ---
-#### 💻 Operating Systems & Development Environments: 
+<h3>
+  <img src="https://i.pinimg.com/originals/24/5d/9d/245d9d30b0ba45ce3b9768b8e5b52b2b.gif" 
+       height="26" 
+       style="vertical-align: bottom; display: inline-block; margin-right: 10px;">
+  Operating Systems & Development Environments
+</h3>
+
 - Windows, Linux; Unity, Anaconda (Jupyter Notebook), IntelliJ IDEA, Arduino IDE, VS, VS Code. 
+
 ---
   
 <h3>
