@@ -18,11 +18,11 @@
 #### 🌍 **Web Development**  
 - **Digital Store(Node.js, jQuery, JavaScript, HTML, CSS)** – Developed an online store with automated product updates via the Facebook API.  
 
-#### 🎮 **Game & IoT Development**  
+#### 🎮 **Games**  
 - **Zombie FPS Game(Unity, C#)** – Designed a survival shooter with AI navigation & destructible objects.
 - **Rush Hour Solver(Java)** – Implemented a puzzle-solving game using BFS, Dijkstra, and A* algorithms.
   
-#### 🔬 **IoT & Embedded Systems**  
+#### 🔬 **IoT Development**  
 - **IoT Infant Monitor(C++)** – Created a real-time pulse and temperature tracking device with ESP32 & Blynk. 
 
 
